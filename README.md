@@ -1,5 +1,6 @@
 # Jupyter Notebook 程序:  
-1.1.1 & 1.1.2 LeNet-5网络  
+1.1.1：LeNet-5网络搭建、训练和保存  
+1.1.2：LeNet-5网络调用和预测    
 
 # 数据集：  
 1.1 LeNet-5参考：https://www.kaggle.com/datamunge/overheadmnist/version/1  
@@ -7,4 +8,3 @@
  
 # B站讲解视频：  
 遥感图像分类 1.1 LeNet-5：https://www.bilibili.com/video/BV1PB4y1A7WF  
-
