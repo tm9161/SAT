@@ -2,7 +2,7 @@
 1.1.1：LeNet-5网络搭建、训练和保存  
 1.1.2：LeNet-5网络调用和预测    
 1.2.1：AlexNet网络搭建、训练和保存  
-3.2.2：AlexNet网络调用和预测  
+1.2.2：AlexNet网络调用和预测  
 
 # 数据集：  
 1.1 LeNet-5参考：https://www.kaggle.com/datamunge/overheadmnist  
