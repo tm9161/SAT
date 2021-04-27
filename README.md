@@ -8,7 +8,7 @@
 1.1 LeNet-5参考：https://www.kaggle.com/datamunge/overheadmnist  
 1.1 LeNet-5自用：链接：https://pan.baidu.com/s/1U1Ls3O200KR98hqZuunF_w  提取码：77ew  
 1.2 AlexNet参考：https://aistudio.baidu.com/aistudio/datasetdetail/51873  
-1.2 AlexNet自用：链接: https://pan.baidu.com/s/1IlFRmapCgObE9gu9wWTbBA  提取码：0wir  
+1.2 AlexNet自用：链接: https://pan.baidu.com/s/1FCOUlhpIl7aObASpBwNlhw 提取码: yqvb  
 
 # B站讲解视频：  
 遥感图像分类 1.1 LeNet-5：https://www.bilibili.com/video/BV1PB4y1A7WF  
