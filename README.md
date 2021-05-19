@@ -16,5 +16,6 @@
 # B站讲解视频：  
 遥感图像分类 1.1 LeNet-5：https://www.bilibili.com/video/BV1PB4y1A7WF  
 遥感图像分类 1.2 AlexNet：https://www.bilibili.com/video/BV1T64y117TT  
-遥感图像分类 1.3 VGGNet：
+遥感图像分类 1.3 VGGNet：https://www.bilibili.com/video/BV1p54y1L7DF  
+
 
