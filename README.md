@@ -9,6 +9,8 @@
 1.4.1：GoogLeNet网络搭建、训练和保存  
 1.4.2：GoogLeNet网络调用和预测  
 1.4.3：两种不同的LeNet模型搭建方式  
+1.5.1：ResNet网络搭建、训练和保存  
+1.5.2：ResNet网络调用和预测  
 
 # 数据集：  
 1.1 LeNet-5参考：https://www.kaggle.com/datamunge/overheadmnist  
@@ -21,3 +23,4 @@
 遥感图像分类 1.2 AlexNet：https://www.bilibili.com/video/BV1T64y117TT  
 遥感图像分类 1.3 VGGNet：https://www.bilibili.com/video/BV1p54y1L7DF  
 遥感图像分类 1.4 GoogLeNet：https://www.bilibili.com/video/bv16y4y1K75B  
+遥感图像分类 1.5 ResNet：https://www.bilibili.com/video/BV1Ru411f7Y6  
