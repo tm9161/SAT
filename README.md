@@ -11,8 +11,8 @@
 1.4.3：两种不同的LeNet模型搭建方式  
 1.5.1：ResNet网络搭建、训练和保存  
 1.5.2：ResNet网络调用和预测  
-ResNet-1 ResNet网络搭建&训练PyTorch版  
-ResNet-2 ResNet网络预测PyTorch版  
+ResNet-1：ResNet网络搭建&训练PyTorch版  
+ResNet-2：ResNet网络预测PyTorch版  
 
 # 数据集：  
 1.1 LeNet-5参考：https://www.kaggle.com/datamunge/overheadmnist  
