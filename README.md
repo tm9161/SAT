@@ -26,4 +26,4 @@ ResNet-2：ResNet网络预测PyTorch版
 遥感图像分类 1.3 VGGNet：https://www.bilibili.com/video/BV1p54y1L7DF  
 遥感图像分类 1.4 GoogLeNet：https://www.bilibili.com/video/bv16y4y1K75B  
 遥感图像分类 1.5 ResNet：https://www.bilibili.com/video/BV1Ru411f7Y6  
-图像分类 ResNet PyTorch版：  
+图像分类 ResNet PyTorch版：https://www.bilibili.com/video/BV1BQ8gzpEgz  
